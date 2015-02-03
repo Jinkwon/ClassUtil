@@ -1,0 +1,27 @@
+{
+  "name": "classutil.js",
+  "version" : "0.1.0",
+  "description" : "Class Util for ES5",
+  "main" : "dist/ClassUtil.js",
+  "moduleType" : [
+    "globals"
+  ],
+  "keywords" : [
+    "ClassUtil",
+    "ES5 Class",
+    "javascript",
+    "Class Library"
+  ],
+  "authors" : [
+    "Jinkwon.Lee <master@bdyne.net>"
+  ],
+  "license" : "MIT",
+
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
